@@ -2,6 +2,14 @@ import React from "react";
 
 const config = {
   ROMS: {
+    goonies: {
+      name: "The Goonies",
+      description: (
+        <span>
+        </span>
+      ),
+      url: "http://www.ben-rush.net/goonies.nes"
+    },
     owlia: {
       name: "The Legends of Owlia",
       description: (
