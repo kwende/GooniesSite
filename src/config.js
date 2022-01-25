@@ -8,7 +8,7 @@ const config = {
         <span>
         </span>
       ),
-      url: "http://www.ben-rush.net/goonies.nes"
+      url: "http://www.ben-rush.net/roms/goonies.nes"
     },
     owlia: {
       name: "The Legends of Owlia",
