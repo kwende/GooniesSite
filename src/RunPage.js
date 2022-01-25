@@ -37,13 +37,6 @@ class RunPage extends Component {
             this.navbar = el;
           }}
         >
-          <ul className="navbar-nav" style={{ width: "200px" }}>
-            <li className="navitem">
-              <Link to="/" className="nav-link">
-                &lsaquo; Back
-              </Link>
-            </li>
-          </ul>
           <ul className="navbar-nav ml-auto mr-auto">
             <li className="navitem">
               <span className="navbar-text mr-3">{this.state.romName}</span>
